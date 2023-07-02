@@ -29,7 +29,7 @@ The Tesla App UI project presents a concept design for a mobile application that
 
 To run the Tesla App UI project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/saidjohn/tesla.git`
+1. Clone the repository: `https://github.com/diyorbekshokirov/tesla_app`
 2. Open the project in your preferred IDE or code editor.
 3. Ensure you have Flutter SDK installed.
 4. Run `flutter pub get` to fetch the project dependencies.
@@ -52,8 +52,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [saidjon.ibn.usmon@gmail.com](mailto:saidjon.ibn.usmon@gmail.com)
-- LinkedIn: [Saidjon](https://www.linkedin.com/in/saidjonsaidov)
+- Email: [shokirovdiyorbek629@gmail.com](mailto:shokirovdiyorbek629@gmail.com)
+- LinkedIn: [Diyorbek](https://www.linkedin.com/in/diyorbekshokirov/)
 
 Thank you for checking out the Tesla App UI project!
 
